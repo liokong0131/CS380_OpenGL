@@ -1,0 +1,3 @@
+C:\workspace\cs380_cg\hw2\asst2\Debug\asst2.exe
+D:\workspace\cs380_cg\hw2\asst2\Debug\asst2.exe
+D:\workspace\cg_cs380\hw2\asst2\Debug\asst2.exe
