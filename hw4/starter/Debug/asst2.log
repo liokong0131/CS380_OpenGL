@@ -1,6 +1,0 @@
-﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
-  asst4.cpp
-G:\다른 컴퓨터\Scar17\workspace\cg_cs380\hw4\starter\asst4.cpp(241,1): warning C4715: 'getCenterRbt': 모든 제어 경로에서 값을 반환하지는 않습니다.
-G:\다른 컴퓨터\Scar17\workspace\cg_cs380\hw4\starter\asst4.cpp(229,1): warning C4715: 'getEyeRbt': 모든 제어 경로에서 값을 반환하지는 않습니다.
-G:\다른 컴퓨터\Scar17\workspace\cg_cs380\hw4\starter\asst4.cpp(317,1): warning C4715: 'getCurrentViewNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  asst2.vcxproj -> G:\다른 컴퓨터\Scar17\workspace\cg_cs380\hw4\starter\Debug\asst4.exe

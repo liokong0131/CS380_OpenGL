@@ -1,1 +1,0 @@
-Copy and paste into the library files located in /usr/local/lib

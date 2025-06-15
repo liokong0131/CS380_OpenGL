@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:asst8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\picker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:picker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\ppm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:ppm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\glsupport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:glsupport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst8.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:asst8.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:asst5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\cvec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:cvec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\mesh.interface||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:mesh.interface||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\scenegraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:scenegraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\cube.mesh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:cube.mesh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\geometry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:geometry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\scenegraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:scenegraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asstcommon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83AB71F-D4B0-4B9E-86F5-DC77C0D89D8D}|asst2.vcxproj|solutionrelative:asstcommon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asst8.cpp",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst8.cpp",
+              "RelativeDocumentMoniker": "asst8.cpp",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst8.cpp",
+              "RelativeToolTip": "asst8.cpp",
+              "ViewState": "AgIAAPABAAAAAAAAAAAAAAYCAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T09:58:38.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "asst8.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst8.h",
+              "RelativeDocumentMoniker": "asst8.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst8.h",
+              "RelativeToolTip": "asst8.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAArwFwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-03T12:59:21.503Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ppm.cpp",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\ppm.cpp",
+              "RelativeDocumentMoniker": "ppm.cpp",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\ppm.cpp",
+              "RelativeToolTip": "ppm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T12:47:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "picker.cpp",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\picker.cpp",
+              "RelativeDocumentMoniker": "picker.cpp",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\picker.cpp",
+              "RelativeToolTip": "picker.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T12:47:43.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "glsupport.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\glsupport.h",
+              "RelativeDocumentMoniker": "glsupport.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\glsupport.h",
+              "RelativeToolTip": "glsupport.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-04T12:46:56.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cvec.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\cvec.h",
+              "RelativeDocumentMoniker": "cvec.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\cvec.h",
+              "RelativeToolTip": "cvec.h",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-04T06:55:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mesh.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\mesh.h",
+              "RelativeDocumentMoniker": "mesh.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\mesh.h",
+              "RelativeToolTip": "mesh.h",
+              "ViewState": "AgIAAGcBAAAAAAAAAAArwHgBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T09:52:41.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mesh.interface",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\mesh.interface",
+              "RelativeDocumentMoniker": "mesh.interface",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\mesh.interface",
+              "RelativeToolTip": "mesh.interface",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T09:52:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cube.mesh",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\cube.mesh",
+              "RelativeDocumentMoniker": "cube.mesh",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\cube.mesh",
+              "RelativeToolTip": "cube.mesh",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T09:59:51.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "geometry.cpp",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\geometry.cpp",
+              "RelativeDocumentMoniker": "geometry.cpp",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\geometry.cpp",
+              "RelativeToolTip": "geometry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T12:03:20.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "scenegraph.cpp",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\scenegraph.cpp",
+              "RelativeDocumentMoniker": "scenegraph.cpp",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\scenegraph.cpp",
+              "RelativeToolTip": "scenegraph.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T12:00:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "geometry.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\geometry.h",
+              "RelativeDocumentMoniker": "geometry.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\geometry.h",
+              "RelativeToolTip": "geometry.h",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAlwJcBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T12:07:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "material.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\material.h",
+              "RelativeDocumentMoniker": "material.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\material.h",
+              "RelativeToolTip": "material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T09:53:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scenegraph.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\scenegraph.h",
+              "RelativeDocumentMoniker": "scenegraph.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\scenegraph.h",
+              "RelativeToolTip": "scenegraph.h",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAcwG0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T11:30:39.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "asstcommon.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asstcommon.h",
+              "RelativeDocumentMoniker": "asstcommon.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asstcommon.h",
+              "RelativeToolTip": "asstcommon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-03T12:03:08.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "asst5.h",
+              "DocumentMoniker": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst5.h",
+              "RelativeDocumentMoniker": "asst5.h",
+              "ToolTip": "C:\\Users\\lioko\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\asst8\\asst5.h",
+              "RelativeToolTip": "asst5.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T05:11:26.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
